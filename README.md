@@ -3,7 +3,7 @@
 
 Here are my D3 clips and wonderful display base camp, enjoy your ***scroll-down-to-end*** time!
 
-## --------------------------------**D3-Map series || Charts Series ||  Others**---------------------------------
+## -----------------**D3-Map series || Charts Series ||  Others**----------------------
 
 ## D3-Map series
 
