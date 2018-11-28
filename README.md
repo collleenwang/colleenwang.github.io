@@ -3,7 +3,7 @@
 
 Here are my D3 clips and wonderful display base camp, enjoy your ***scroll-down-to-end*** time!
 
-##                              D3-Map series || Charts Series ||  Others
+##--------------------------------**D3-Map series || Charts Series ||  Others**---------------------------------
 
 ## D3-Map series
 
@@ -11,7 +11,7 @@ Here are my D3 clips and wonderful display base camp, enjoy your ***scroll-down-
 
 Are you looking forward to move the global by one click to find your city location? [Let's go here.](links)
 
-![Image](links)
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/Earth.gif)
 
 
 ### Project2  JFK airport interntional fights.
@@ -35,14 +35,14 @@ You never how [a voroni US map](links) beautiful is!
 
 Don't miss this amazing US map.
 
-![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/Grid%20Map.png)
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/gridmap.gif)
 
 ## *** Charts Series
 
 ### Project1 How men/women make choice to play musical instruments?
 
-Here is a [strollytelling story](links) to see gender difference on musical instruments. 
+Here is a [strollytelling story]() to see gender difference on musical instruments. 
 
-
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/chart1.gif)
 
 
