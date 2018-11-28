@@ -11,7 +11,7 @@ Here are my D3 clips and wonderful display base camp, enjoy your ***scroll-down-
 
 Are you looking forward to move the global by one click to find your city location? [Let's go here.](links)
 
-![imagedf](https://github.com/collleenwang/colleenwang.github.io/blob/master/Earth.gif)
+![image]()
 
 
 ### Project2  JFK airport interntional fights.
