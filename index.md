@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Colleen Wang' Github.io
 
-You can use the [editor on GitHub](https://github.com/collleenwang/colleenwang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are my D3 clips and wonderful display base camp, enjoy!
 
-### Markdown
+## D3-Map series
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project1  Locating your city on a D3 map.  
 
-```markdown
-Syntax highlighted code block
+Are you looking forward to move the global by one click to find your city location? [Let's go here.](links)
 
-# Header 1
-## Header 2
-### Header 3
+![Image](links)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Project2  JFK airport interntional fights.
 
-**Bold** and _Italic_ and `Code` text
+Have you ever thought how the animated [**international fights**](links) fly by day and night on the world map? Cilck the link.
 
-[Link](url) and ![Image](src)
-```
+![Image](links)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Project3  How Energy Distribution in US tell a story? 
 
-### Jekyll Themes
+You will never know how bublles fly from the map to a growing chart, if you don't click [here](links). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/collleenwang/colleenwang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](links)
 
-### Support or Contact
+### Project 4 D3 Voronoi Map
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You never how [a voroni US map](links) beautiful is! 
+![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/voronoi%20map.png)
