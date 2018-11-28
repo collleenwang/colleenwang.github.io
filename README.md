@@ -3,7 +3,9 @@
 
 There are my D3 clips and wonderful display base camp, enjoy!
 
-## ***D3-Map series
+## ***D3-Map series || *** Charts Series || *** Others
+
+## D3-Map series
 
 ### Project1  Locating your city on a D3 map.  
 
@@ -34,3 +36,13 @@ You never how [a voroni US map](links) beautiful is!
 Don't miss this amazing US map.
 
 ![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/Grid%20Map.png)
+
+## *** Charts Series
+
+### Project1 How men/women make choice to play musical instruments?
+
+Here is a [strollytelling story](links) to see gender difference on musical instruments. 
+
+
+
+
