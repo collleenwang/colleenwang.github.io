@@ -7,7 +7,7 @@ There are my D3 clips and wonderful display base camp, enjoy!
 
 ### Project1  Locating your city on a D3 map.  
 
-Are you looking forward to move the global by one click to find your city location? [Let's go here.](links)
+Are you looking forward to move the global by one click to find your city location? [**Let's go here.](links)
 
 ![Image](links)
 
@@ -20,17 +20,17 @@ Have you ever thought how the animated [**international fights**](links) fly by 
 
 ### Project3  How Energy Distribution in US tell a story? 
 
-You will never know how bublles fly from the map to a growing chart, if you don't click [here](links). 
+You will never know how bublles fly from the map to a growing chart, if you don't click [**here](links). 
 
 ![Image](https://github.com/collleenwang/D3-Energy-Map/blob/master/3.png)
 
 ### Project 4 D3 Voronoi Map
 
-You never how [a voroni US map](links) beautiful is! 
+You never how [**a voroni US map](links) beautiful is! 
 ![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/voronoi%20map.png)
 
 ### Project 5 D3 Grip Map
 
-Don't miss this amazing US map.
+Don't miss this amazing [**US map].
 
 ![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/Grid%20Map.png)
