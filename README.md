@@ -29,7 +29,7 @@ You will never know how bublles fly from the map to a growing chart, if you don'
 ### Project 4 D3 Voronoi Map
 
 You never how [a voroni US map](links) beautiful is! 
-![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/voronoi%20map.png)
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/voronoimap.gif)
 
 ### Project 5 D3 Grip Map
 
