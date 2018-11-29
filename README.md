@@ -24,7 +24,7 @@ Have you ever thought how the animated [**international fights**](links) fly by 
 
 You will never know how bublles fly from the map to a growing chart, if you don't click [here](links). 
 
-![Image](https://github.com/collleenwang/D3-Energy-Map/blob/master/3.png)
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/dots-fly.gif)
 
 ### Project 4 D3 Voronoi Map
 
@@ -41,8 +41,34 @@ Don't miss this amazing US map.
 
 ### Project1 How men/women make choice to play musical instruments?
 
-Here is a [strollytelling story]() to see gender difference on musical instruments. 
+Here is a [strollytelling story](linkes) to see gender difference on musical instruments. 
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/chart1.gif)
+
+### Project2 Can you draw unemployment rate during Obama term?
+
+Here is an [interactive drawing story](linkes-19) with users, anyone can try like this below, and then the right one will appear to "correct" you.  
+
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/draw.gif)
+
+### Project3 Can you manipulate the bubble charts result?
+
+Here is an [interactive drawing story](linkes-19) with users, anyone can drag bubbles for fun. 
+
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/drag1.gif)
+
+### Project4 What time everyone is born? 
+
+Here is [a pie chart](linkes-baby-charts) for tell the most frequent baby born info, you will like this amazing colorful chart. 
+
+![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/baby-chart.png)
+
+### Project 5 What football players look like on one game with data analysis? 
+
+Here is [multiplied pie charts] to show players' performances. 
+
+![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/sports-chart.png)
+
+
 
 
