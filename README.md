@@ -11,7 +11,7 @@ Welcome to check the code if you are interested in.
 
 ### Project1  Play with satellites!  
 
-Find yours! [ The code will release soon].()
+Find yours! The code will update soon.
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/Earth.gif)
 
