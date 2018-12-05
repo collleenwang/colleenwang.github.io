@@ -71,6 +71,12 @@ Here is [multiplied pie charts]() to show players' performances.
 
 ![Image](https://github.com/collleenwang/colleenwang.github.io/blob/master/sports-chart.png)
 
+## *** Others Series
 
+Here are two [fisheye] clips, play with them! 
+
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/fisheye1.gif)
+
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/fisheye2.gif)
 
 
