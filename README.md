@@ -79,4 +79,9 @@ Here are two [fisheye](https://github.com/collleenwang/D3-Fisheye) clips, play w
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/fisheye2.gif)
 
+Here is a [dot waffle](https://github.com/collleenwang/D3-Waffles) animation, like it? 
+
+![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/waffles.gif)
+
+
 
