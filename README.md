@@ -73,7 +73,7 @@ Here is [multiplied pie charts]() to show players' performances.
 
 ## *** Others Series
 
-Here are two [fisheye] clips, play with them! 
+Here are two [fisheye](https://github.com/collleenwang/D3-Fisheye) clips, play with them! 
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/fisheye1.gif)
 
