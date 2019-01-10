@@ -21,24 +21,19 @@ You may wonder how refugees move from 1975 to 2017 on world map, here you will s
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/Refugee%20World%20Moving%20Routes.gif)
 
-### Project3  JFK airport interntional fights.
 
-Have you ever thought how the animated [**international fights**](https://github.com/collleenwang/D3-Arrow-Line-Map) fly by day and night on the world map? Cilck the code link.
-
-![Image](https://github.com/collleenwang/D3-Arrow-Line-Map/blob/master/1.png)
-
-### Project4  How Energy Distribution in US tell a story? 
+### Project3  How Energy Distribution in US tell a story? 
 
 You will never know how bublles fly from the map to a growing chart, if you don't click [here](https://github.com/collleenwang/D3-Energy-Map) to see the code.
 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/dots-fly.gif)
 
-### Project 5 D3 Voronoi Map
+### Project 4 D3 Voronoi Map
 
 You never how [a voroni US map](links) beautiful is! 
 ![Alt Text](https://github.com/collleenwang/colleenwang.github.io/blob/master/voronoimap.gif)
 
-### Project 6 D3 Grip Map
+### Project 5 D3 Grip Map
 
 Don't miss this [amazing US map]().
 
